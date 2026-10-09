@@ -1,0 +1,6 @@
+﻿3 yêu cầu
+yêu cầu 1=>cd ~ => mkdir smart_farm/bin, smart_farm/data, smart_farm/config
+yêu cầu 2=>cd smar_farm\config => new-item 1.env
+giải thích : đuôi env là file ẩn =>window+e=>chọn folder config=>view=>show=>hidden item
+yêu cầu 3=> Access to the path is denied do chx dc cấp đủ quyền=> chạy powershell với Administrator
+yêu cầu 4:
